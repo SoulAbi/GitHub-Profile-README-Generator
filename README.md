@@ -47,7 +47,7 @@ soulabi/github-profile-readme-generator?style=flat-square" alt="github-profile-r
 <p align="center">
 <a href="https://www.paypal.me/soulabi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
-<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for soulabi' />
+<a href='https://ko-fi.com/soulabi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for soulabi' />
 </a>
 <a href="https://www.buymeacoffee.com/soulabi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
 </p>
